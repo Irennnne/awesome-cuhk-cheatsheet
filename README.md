@@ -7,11 +7,11 @@ This repo collects useful exam cheatsheets to help students with their revision.
 Now only contains courses where the author achieved decent grades.
 
 📂 Available materials:
-- 🖥️ CSCI3160
-- 🖥️ CSCI3320
-- 🔧 MAEG1010
-- 💼 FTEC4005
-- 🧮 ENGG2780
+- CSCI3160
+- CSCI3320
+- MAEG1010
+- FTEC4005
+- ENGG2780
 
 Hope more people can contribute to build up this repo together! 🙌
 
