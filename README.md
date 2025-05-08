@@ -1,6 +1,6 @@
 # 📚 Awesome CUHK Cheatsheet 
 
-Surviving at The Chinese University of Hong Kong is no easy task 🫥. 爛 grades are practically inevitable 💔.  
+Surviving at The Chinese University of Hong Kong is no easy task :skull:. 爛 grades are practically inevitable 💔.  
 This repo collects useful exam cheatsheets to help students with their revision. Hope you find them helpful!
 
 ## 🚦 Current Status
