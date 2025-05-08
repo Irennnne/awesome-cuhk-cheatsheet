@@ -22,6 +22,6 @@ Hope more people can contribute to build up this repo together! 🙌
   - 🔖 [Open an Issue](https://github.com/irennnne/awesome-cuhk-cheatsheet/issues) with your materials  
   - 📧 **Email** – If you’re not familiar with Git, send your file or suggestion to ireneyu1024@gmail.com and I’ll upload it for you.
 
-Thanks!
+Feel free to upload your own version even if it already exists another version! Thanks!
 
 ⭐ If you find this helpful, please give it a star!
